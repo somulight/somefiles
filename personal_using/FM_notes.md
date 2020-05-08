@@ -71,8 +71,6 @@
 - [Strategic Management and AI](#strategic-management-and-ai)
 - [Neuro Management](#neuro-management)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ## 4th Industrial Revolution,New Machine Age, and Management Paradigm Shift
 
 ### CFIT: Controlled Flight Into Terrain
