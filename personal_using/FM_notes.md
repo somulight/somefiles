@@ -419,35 +419,414 @@ providing the service for free to some customer segments to subsidize other cust
 #### EP data
 
 - electrophysiological (EP) data
-  • they contain large portions of unstructured narrative texts
-  • (ex) clinical notes, that are not directly analyzable
-  • electronic medical record (EMR)
-  • An electronic (digital) collection of medical information about a person
-  that is stored on a computer.
-  • EMR includes information about a patient’s health history,
-  • such as diagnoses, medicines, tests, allergies, immunizations, and treatment plans.
-  • EMR can be seen by all healthcare providers who are taking care of a
-  patient and can be used by them to help make recommendations about
-  the patient’s care.
+  - they contain large portions of unstructured narrative texts
+    - (ex) clinical notes, that are not directly analyzable
 
+- Electrophysiology is the branch of physiology
+  - that studies the electrical properties of biological cells and tissues.
+  - It involves measurements of voltage changes or electric current or manipulations on a wide variety of scales from single ion channel proteins to whole organs like the heart.
+  - In neuroscience, it includes measurements of the electrical activity of neurons, and, in particular, action potential activity.
+  - They are useful for electrodiagnosis and monitoring.
 
+- Electrophysiology is the branch of physiology
 
+  - that studies the electrical properties of biological cells and tissues.
+  - It involves measurements of voltage changes or electric current or manipulations on a wide variety of scales from single ion channel proteins to whole organs like the heart
+  - In neuroscience, it includes measurements of the electrical activity of neurons, and, in particular, action potential activity
+  - They are useful for electrodiagnosis and monitoring
 
+#### electronic medical record (EMR)
 
+  - An electronic (digital) collection of medical information about a person that is stored on a computer.
+  - EMR includes information about a patient’s health history,
+    - such as diagnoses, medicines, tests, allergies, immunizations, and treatment plans. 
+  - EMR can be seen by all healthcare providers who are taking care of a patient and can be used by them to help make recommendations about the patient’s care.
 
+### AI Devices in Healthcare
 
+Two major categories
 
+#### Machine Learning (ML)  techniques
 
+- that analyze structured data such as imaging, genetic and EP data.
+- In the medical applications, the ML procedures attempt to cluster patients' traits, or infer the probability of the disease outcomes
+
+#### Natural language processing (NLP) methods
+
+- that extract information from unstructured data such as clinical notes/medical data
+- The NLP procedures target at turning text to machine-readable structured data, which can hen be analyzed by ML techniques
 
 
 ## Strategic Management and AI
 
+### Fundamentals of SM
 
+#### Canoe Theory
 
+- Think of your organization as long canoe
+- The canoe has a destination
+- Everyone in the canoe has a seat and paddle
+- Everyone is expected to paddle
+- Those who won't paddle have to get out of the canoe
+- Those who prevent others from paddling have to re-adjust or get out of the canoe
+- There are no passengers in the canoe
+- The canoe theory understands crisis
+- The canoe theory says you have the right to be happy
 
+### Strategic Management Model
 
+- Scanning
+  - Where are we now?
+  - Industry Analysis - Competitive Intelligence
+  - SWOT Analysis
+  - Internal versus
+    - External Elements
+- Strategy Formulation
+  Where do we want to be?
+- Strategy Implementation
+  How do we get there?
+- Measurement/Performance
+  How do we measure our progress?
 
+### New Entrants and Entry Barriers
 
+- Absolute cost advantages
+- Access to inputs
+- Government policy
+- Economies of scale 
+- Capital requirements
+- Brand identity
+- Switching costs
+- Access to distribution
+- Proprietary products
 
+#### Buyer Power (Channel and End Consumer)
+
+- Buyer volume and information
+- Brand identity
+- Price sensitivity
+- Threat of backward integration
+- Product differentiation
+- Substitutes
+
+#### Supplier Power
+
+- Supplier concentration
+- Differentiation of inputs
+- Switching costs
+- Threat of forward integration
+- Cost relative to total purchases in industry
+
+#### Substitutes
+
+- Switching costs
+- Buyer inclination to substitute
+- Variety of substitutes
+- Price-performance tradeoff of substitutes
+- Necessity for product or service
+
+#### Degree of Rivalry
+
+- Exit barriers
+- Industry concentration
+- Fixed costs
+- Industry growth
+- Intermittent overcapacity
+- Switching costs
+- Brand identity
+- Diversity of rivals
+- Corporate stakes
+
+### Strategic Management Model
+
+#### Strategy Formulaiton
+
+- Where do we want to be?
+
+- Vision
+
+  - Not Optional
+  - Stretch - 30+ years
+  - 8-10 words in length
+  - Future State
+  - Brief and Memorable
+  - eg: • “Light the Fire Within”
+    • “A Safer Future for All Communities”
+    • “See the Mountains – Breathe Freely”
+    • To Be the Happiest Place on Earth
+    • To Be the World’s Best Quick Service Restaurant
+
+- Mission
+
+  In the absence of a clearly defined direction one is forced to concentrate on confusion that will ultimately consume you
+
+  - What is our purpose?
+  - Describes current state
+  - Timeline is 3-5 Years
+  - Builds on our distinctive competencies
+  - Tends to focus on Core Business
+  - 30-35 Words in length
+  - eg: • “To Lead All Communities in Disaster Preparedness,
+    Mitigation, and Recovery by Maximizing Assistance and
+    Support.”
+    • “Caltrans Improves Mobility Across California.”
+    • To produce superior financial returns for our shareholders as
+    we serve our customers with the highest quality
+    transportation, logistics, and e-commerce.
+    15
+
+- Values
+
+  - Guiding Principles
+  - Help establish Culture
+  - Part of Preserving the Core
+  - Core Ideology
+  - eg: • CHP PRIDE
+    • HP WAY
+    • J & J Credo
+    • “Build the Spirit of the Place”
+    16
+
+- Goals 
+
+  - Supports the mission
+  - Deals with one issue or item of focus
+  - reflects a primary activity or strategic direction
+  - Describes the "to be" state
+  - "BHAG" (Big Hairy Audacious Goal)
+  - Encompasses a long period i.e, at least 3 years
+  - eg: • Achieve excellence in the delivery of disaster recovery and
+    mitigation programs.
+    • Professionally develop our employees as a reflection of DAD’s
+    key attributes and values.
+    • Increase the supply of housing, especially affordable housing.
+    • Become a model for customer service.
+    • To provide benefits in correct amounts and issued in a timely
+    manner.
+
+- Objectives
+
+  - Add specificity beyond Goals
+  - Answer the questions
+    - What is to be accomplished?
+    - When?
+  - Should contain the smart element
+    - Specific
+    - Measurable
+    - Aggressive but Attainable
+    - Results-Oriented
+    - Timeframe
+    - eg: By June 30, 2005 achieve 75% rating on the DAD service
+      index from all stakeholders.
+      • Increase sales growth 6-8% in the next 5 years. (P&G)
+      • Cut corporate overhead costs by $30 million per year.
+      (Fortune Brands)
+      • Operate 6,000 stores by 2010 – up from 3,000 in the year
+      2000. (Walgreen’s)
+      • Reduce greenhouse gases by 10 percent (from a 1990 bast)
+      by 2010. (BP Amoco)
+
+### Strategic Management Model
+
+Strategy Implementation
+
+- Most open-ended part of Strategic Mgmt
+- People implement strategies not organizations
+- How do we get there?
+- Work action plans
+- GOOMs
+  - Goals: broad, general BHAG
+  - Outcomes: desired end result and report performance
+  - Objectives: what and when
+  - Measures: a quantified unit that assesses progress or achievement
+
+### Sentiment Analysis (SA)
+
+#### A field of study with many names
+
+- Opinion mining 
+- Sentiment analysis
+- Sentiment mining
+- Subjectivity detection
+- Often used synonymously
+- Some shadings in meaning
+- "sentiment analysis" describes the current mainstream task best → I'll use this term
+
+#### Aspect-oriented sentiment analysis:
+
+It's not all good or bad
+
+#### The analysis method
+
+- Machine learning
+  - Supervised
+  - unsupervised
+
+- Lexicon-based
+  - dictionary
+    - flat
+    - with semantics
+
+- Discourse analysis
+
+- Objects, aspects, opinions
+  - Object identification
+  - Aspect extraction
+  - Grouping synonyms
+  - Opinion orientation classification
+  - Neutral sentiment
 
 ## Neuro Management
+
+- A study to optimize management activities by using physiological coming from brain, heart, and eyes
+
+- Different signals
+
+  - Depending on types of management activities
+  - Cognitive performance
+    - Leading to individual performance and team performance eventually
+
+### EEG
+
+  #### Electroencephalography
+
+  - an electroencephalography monitoring method to record electrical activity of the brain
+  - EEG measures voltage fluctuations resulting from ionic current within the neurons of the brain
+  - EEG refers to the recording of the brain's spontaneous electrical activity over a period of time, as recorded from multiple electrodes placed on the scalp
+
+#### ERP (event-related potentials)
+
+- potential fluctuations time locked to an event, such as 'stimulus onset' or 'button press'
+
+#### Spectral content of EEG
+
+- neural oscillations (popularly called "brain waves") that can be observed in EEG signals in the frequency domain
+
+### ECG
+
+#### Electrocardiography (ECG)
+
+- the process of producing a electrocardiogram
+- a recording - a graph of voltage versus time - of the electrical activity of the heart using electrodes placed on the skin
+- Detecting the small electrical changes that are a consequence of cardiac muscle depolarization followed by repolarization during each cardiac cycle (heartbeat)
+
+#### Three main components to a ECG
+
+- P wave
+  which represents the depolarization of the atria
+- QRS complex
+  which represents the depolarization of the ventricles
+- T wave
+  which represents the repolarization of the ventricles
+
+### Eye-tracking
+
+- The process of measuring either the point of gaze (where one is looking) or the motion of an eye relative to the head
+- Time to First Fixation
+  - The Time to First Fixation (TTFF) indicates the amount of time that it takes a respondent (or all respondents on average) to look at a specific AOI (area of interest) from stimulus onset
+
+- Heatmaps
+  - visualizations which show the general distribution of gaze points.
+  - They are typically displayed as a color gradient overlay on the presented image or stimulus
+  - The red, yellow, and green colors represent in descending order the amount of gaze points that were directed towards parts of the image
+
+### Oxygen and Neuro Management
+
+- Availability of oxygen
+  - crucial for cognitive processes to be intact
+  - a lack of oxygen in  the brain leads to lower cognitive performance
+
+- Concentration on works
+- PFC area
+  - Prefrontal cortex
+
+### PFC (Prefrontal cortex)
+
+- the cerebral cortex which covers the front part of the frontal lobe
+- planning complex cognitive behavior,
+- personality expression,
+- decision making,
+- moderating social behave
+- orchestration of thoughts and actions in accordance with internal goals.
+
+### Executive Function
+
+- Abilities to differentiate among conflicting thoughts
+- Abilities to determine• good and bad,
+  • better and best,
+  • same and different,
+  • future consequences of current activities,
+  • working toward a defined goal,
+  • prediction of outcomes,
+  • expectation based on actions,
+  • social "control" (the ability to suppress urges that, if not suppressed, could lead to socially unacceptable outcomes).
+  • concrete rule learning at higher levels of abstraction
+
+### fMRI, PET, EEG and fNIRS
+
+#### How to quantify cerebral oxygenation and hemodynamics
+
+##### fMRI: functional magnetic resonance imaging
+
+- Gold standard for the assessment of brain activity
+  - as it offers the advantage to measure functional changes across the whole brain with a high spatial resolution
+
+- Cons
+  - acquisition costs are relatively high
+  - susceptible to movement artefacts (e.g. requires rigorous head stabilization)
+  - relatively noisy during the measurements
+  - a relative low temporal resolution
+  - cannot be used in special cohorts (e.g., individual with metallic implants or claustrophobia)
+
+##### PET: positron-emission-tomography
+
+- PET allows the assessment of changes in various substances (e.g., glucose)
+- PET scans are relatively expensive
+- Repeated measurements within short time intervals are ethically not feasible due to the use of radioactive tracer substances
+
+##### EEG: electroencephalography
+
+- Measures the brain activation directly and non-invasively based of neuroelectric signals of neurons
+  - a high temporal resolution
+  - suffers from a relatively weak spatial resolution
+
+- Cons
+  - relative susceptible to artefacts (e.g., due to sweat or muscle activity)
+  - Time consuming in preparation (e.g., when gel is used)
+  - the obtained signals are hard to interpret for non-experts
+
+#### fNIRS: functional near-infrared spectroscopy
+
+- functional near-infrared spectroscopy
+- An optical neuroimaging technique that is based on the theory of neurovascular coupling and optical spectroscopy
+  - An increase in neural activity causes an increase in the oxygen metabolism, which is necessary to satisfy energetic demands of the neuronal tissue (**neurometabolic coupling**)
+  - Within the neuronal oxygen metabolism, oxygen is consumed to produce energy, leading to a decrease in the concentration of oxyHb and to an increaser in the concentration of deoxyHb
+
+- Neural activity triggers local changes in cerebral hemodynamics that induce an intensified blood flow to the activated brain regions (**neurovascular coupling**)
+  - since the local supply of oxygen is greater than its consumption, in activated brain region, a higher concentration of oxyHb and a decreased concentration of deoxyHb is to be observed
+
+#### How fNIRS works
+
+- Light with different wavelengths in the near-infrared spectrum is emitted by a source on the scalp
+  - after the travelling through different layers (skull, cerebrospinal fluid), this light reaches neuronal tissue.
+  - Inside the tissue, the light undergoes absorption and scattering that contributes to light attenuation.
+- During absorption, the energy of the photons is transformed into internal energy of the respective medium.
+- Scattering forced the photons to deviate from their initially straight trajectories and increase the length of their travelled.
+- The non-absorbed components of the scattered light can be measured by a detector placed on the head’s surface
+
+### Pros of fNIRS
+
+- Well-situated to investigate the effects of physical activity on cognitive performance and cerebral oxygenation/hemodynamics
+- non-invasiveness
+- a relatively good spatial and temporal
+- portability
+- a low noise level during operation
+- relative low acquisition costs,
+- robustness against motion artefacts that make a strict immobilization or sedation of participants unnecessary
+- the possibility to investigate cortical activity in individuals with metallic implants or claustrophobia,
+- the opportunity to conduct repeated measures in short time intervals (since no radioactive tracer substance as in PET is used)
+- fNIRS can be used to quantify both changes of deoxyHb and of oxyHb.
+  - The simultaneous assessment of deoxyHb and oxyHb allows the
+    quantification of further markers of cortical activation
+
+#### fNIRS with VMD (Visual Merchandising Displays)
