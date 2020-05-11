@@ -1,4 +1,78 @@
+- [4th Industrial Revolution,New Machine Age, and Management Paradigm Shift](#4th-industrial-revolution-new-machine-age--and-management-paradigm-shift)
+  * [CFIT: Controlled Flight Into Terrain](#cfit--controlled-flight-into-terrain)
+    + [Cause:](#cause-)
+  * [4th Industrial Revolution and IIT](#4th-industrial-revolution-and-iit)
+  * [IIT (Intelligent Information  Technology)](#iit--intelligent-information--technology-)
+  * [Nature of IIT](#nature-of-iit)
+- [Industrial Revolution, New Machine Age, and Management Paradigm](#industrial-revolution--new-machine-age--and-management-paradigm)
+  * [New Machine Age](#new-machine-age)
+  * [IT role in new machine age](#it-role-in-new-machine-age)
+    + [Roles in NMA](#roles-in-nma)
+  * [Changes in source of competitiveness](#changes-in-source-of-competitiveness)
+    + [Data & Knowledge](#data---knowledge)
+    + [IIT](#iit)
+    + [Competitive companies](#competitive-companies)
+    + [Among top 10 companies](#among-top-10-companies)
+- [Definitions of AI and Its History](#definitions-of-ai-and-its-history)
+  * [What Does AI Really Do?](#what-does-ai-really-do-)
+  * [AI History](#ai-history)
+- [Deep Learning & AI](#deep-learning---ai)
+  * [NN (Neural Network)](#nn--neural-network-)
+  * [Deep Learning](#deep-learning)
+  * [Convolutional Neural Network](#convolutional-neural-network)
+  * [**Three Stages of a Convolutional Layer**](#--three-stages-of-a-convolutional-layer--)
+  * [Pooling](#pooling)
+    + [Common pooling operations:](#common-pooling-operations-)
+  * [CNN/DNN Examples:](#cnn-dnn-examples-)
+  * [Manufacturing & AI](#manufacturing---ai)
+  * [AI for Factories](#ai-for-factories)
+  * [AI for Factories 4.0](#ai-for-factories-40)
+    + [What is AI intended for Factories 4.0?](#what-is-ai-intended-for-factories-40-)
+  * [Challenges for AI in manufacturing](#challenges-for-ai-in-manufacturing)
+- [Human Resource Management and AI](#human-resource-management-and-ai)
+  * [Roles of AI in the Enterprise](#roles-of-ai-in-the-enterprise)
+  * [AI Approach to HRM](#ai-approach-to-hrm)
+    + [AI in Recruitment](#ai-in-recruitment)
+    + [AI in Retention](#ai-in-retention)
+    + [Other Examples](#other-examples)
+  * [Question:  How to avoid the dark side of AI？](#question---how-to-avoid-the-dark-side-of-ai-)
+- [Accounting and AI](#accounting-and-ai)
+  * [The Basic Accounting Equation](#the-basic-accounting-equation)
+    + [Revenues](#revenues)
+    + [Expenses](#expenses)
+  * [The Profit and Loss Account](#the-profit-and-loss-account)
+  * [Hype Cycle Model (HCM)](#hype-cycle-model--hcm-)
+  * [Definition of AI](#definition-of-ai)
+  * [AI - The Basics: Big Data & Algorithms](#ai---the-basics--big-data---algorithms)
+    + [Big Data](#big-data)
+    + [Algorithms](#algorithms)
+    + [AI - The Basics: Types of AI](#ai---the-basics--types-of-ai)
+  * [Roles of AI in Accounting](#roles-of-ai-in-accounting)
+    + [What skills must CPAs develop or strengthen to be relevant and employable in 2030?](#what-skills-must-cpas-develop-or-strengthen-to-be-relevant-and-employable-in-2030-)
+- [Business Model & AI - Platform Business](#business-model---ai---platform-business)
+  * [What is Platform?](#what-is-platform-)
+  * [Platforms leverage network effects](#platforms-leverage-network-effects)
+  * [Platformmisation](#platformmisation)
+    + [Network Effects](#network-effects)
+    + [Examples of Platforms](#examples-of-platforms)
+  * [Platform business](#platform-business)
+    + [Definition and network effects](#definition-and-network-effects)
+    + [Key success factors](#key-success-factors)
+  * [Wii](#wii)
+    + [Key points](#key-points)
+  * [Freemium as a business model:](#freemium-as-a-business-model-)
+- [Healthcare and AI](#healthcare-and-ai)
+  * [Why AI for Healthcare?](#why-ai-for-healthcare-)
+  * [The application of AI in medicine has two main branches:](#the-application-of-ai-in-medicine-has-two-main-branches-)
+  * [Benefits of AI in Healthcare](#benefits-of-ai-in-healthcare)
+  * [Healthcare Data](#healthcare-data)
+  * [Two Major Data Sources](#two-major-data-sources)
+    + [EP data](#ep-data)
+- [Strategic Management and AI](#strategic-management-and-ai)
+- [Neuro Management](#neuro-management)
+
 ## 4th Industrial Revolution,New Machine Age, and Management Paradigm Shift
+
 ### CFIT: Controlled Flight Into Terrain
 
 #### Cause: 
@@ -26,6 +100,7 @@
 ### IIT (Intelligent Information  Technology)
 
 - Definition
+
   - Technologies capable of dealing with humans' high-dimensional information process by ICT (information and communications technology)
   - Integration of two components
     - "Intelligence" materialized by AI
@@ -37,9 +112,9 @@
     - IoT (Internet of things)
     - Mobile
     - Cloud and Big Data
-  
+
   ### Nature of IIT
-  
+
   - Decision-making without human intervention
   - Real-time response
   - Self-Evolution
@@ -141,6 +216,7 @@ Doesn't care, no notes
 - Code generation by image
 
 ### Manufacturing & AI
+
 ### AI for Factories
 
 AI is a key enable for the next generation of smart manufacturing. It can lead to a disruption in traditional workflows, supply chains, value creation and business models in manufacturing
@@ -202,13 +278,13 @@ AI is a key enable for the next generation of smart manufacturing. It can lead t
 #### Other Examples
 
 - Textio Augmented Writing for better jobpostings
-(exceptional vs extraordinary, managing vs developing, “able to work under pressure”)
+  (exceptional vs extraordinary, managing vs developing, “able to work under pressure”)
 - Humanyze People analytics
-(Organizational Network Analysis, Wearable devices to measure interactions at
-workplace and promote balanced interactions)
+  (Organizational Network Analysis, Wearable devices to measure interactions at
+  workplace and promote balanced interactions)
 - Pymetrics Recruitement games
-(bias-free, machine learning to determine success factors from the existing employees,
-testing 80 factors through games)
+  (bias-free, machine learning to determine success factors from the existing employees,
+  testing 80 factors through games)
 
 Productivity / Learning / Operations
 
@@ -279,7 +355,7 @@ Technologies Go Through a Life Cycle
 4. Self Awareness
    These types of AI can form representations about themselves. An extension of the theory of mind, they are aware of their internal states, can predict the feelings of others, and can make abstractions and inferences. They are the future generation of machines: super intelligent, sentient, and conscious
    -  Eva in the 2015 movie Ex Machina
-   - Synths in the 2015 TV series Humans
+   -  Synths in the 2015 TV series Humans
 
 ### Roles of AI in Accounting
 
@@ -287,6 +363,7 @@ Technologies Go Through a Life Cycle
 - Accounting departments overall will be trimmed down and the employees left will be able to **focus on more strategic and value adding initiatives, like process improvement, cost control, and capital optimisation.**
 
 #### What skills must CPAs develop or strengthen to be relevant and employable in 2030?
+
 1. Business advisors and strategists
    - AI will do the number crunching and analysis. The accountant must be able to use these to **help drive long term business strategy and value creation.**
 2. Specialism in complex accounting niches that are fluid and changing like tax law
@@ -319,6 +396,7 @@ More users = more value = more users...
 - A platform business model creates value by facilitating interactions between the different customer segments (eg matchmaking and transaction costs reduction)
 - Platform business models are often labelled “two-sided markets” or ”multi-sided markets”, on the basis of how many customer segments they work with
 - Platforms generate network effects (see below) but also a chicken-and-egg problem in terms of how to attract both sides of the market at the same time (they use “ratcheting” or “zig zag” strategies to achieve this
+
 #### Network Effects
 
 - Direct/same side network effects: the more users in one customer segment will attract more users in that customer segment (users of fax machines; users of an instant messaging system)
@@ -421,6 +499,16 @@ providing the service for free to some customer segments to subsidize other cust
 - electrophysiological (EP) data
   - they contain large portions of unstructured narrative texts
     - (ex) clinical notes, that are not directly analyzable
+
+  <<<<<<< HEAD
+    =======
+  
+- electronic medical record (EMR)
+  - An electronic (digital) collection of medical information about a person that is stored on a computer.
+  - EMR includes information about a patient’s health history,
+    - such as diagnoses, medicines, tests, allergies, immunizations, and treatment plans. 
+  - EMR can be seen by all healthcare providers who are taking care of a patient and can be used by them to help make recommendations about the patient’s care.
+>>>>>>> eed35e11cd34da17aca3f6baba03b956f0c8300f
 
 - Electrophysiology is the branch of physiology
   - that studies the electrical properties of biological cells and tissues.
